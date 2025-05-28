@@ -1,6 +1,6 @@
 # Silvermax Store
 
-A Flutter-based e‑commerce demo app inspired by Jumia.  
+A Flutter-based e‑commerce demo app.
 Users can browse by category, search across all products, add items to cart, and sign in via email/password or Google.
 
 # Features
